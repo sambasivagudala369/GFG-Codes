@@ -1,0 +1,12 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1">Sorted and Rotated Minimum</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="user-select: auto;"><p style="user-select: auto;"><span style="font-size: 18.6667px; user-select: auto;">A sorted array<strong style="user-select: auto;">&nbsp;</strong></span><span style="font-size: 18.6667px; user-select: auto;">of distinct elements </span><strong style="font-size: 18.6667px; user-select: auto;">arr[]</strong><span style="font-size: 18.6667px; user-select: auto;">&nbsp;is rotated at some unknown point, the task is to find the minimum element in it.&nbsp;</span></p>
+<p style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Examples:</strong></span></p>
+<pre style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Input: </strong>arr[] = [5, 6, 1, 2, 3, 4]
+<strong style="user-select: auto;">Output: </strong>1
+<strong style="user-select: auto;">Explanation:</strong> 1 is the minimum element in the array.</span></pre>
+<pre style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Input: </strong>arr[] = [3, 1, 2]
+<strong style="user-select: auto;">Output: </strong>1
+<strong style="user-select: auto;">Explanation:</strong> Here 1 is the minimum element.<br style="user-select: auto;"></span></pre>
+<pre style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Input: </strong>arr[] = [4, 2, 3]
+<strong style="user-select: auto;">Output: </strong>2
+<strong style="user-select: auto;">Explanation:</strong> Here 2 is the minimum element.</span></pre>
+<p style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Constraints</strong>:<br style="user-select: auto;">1 ≤ arr.size() ≤ 10<sup style="user-select: auto;">6</sup><br style="user-select: auto;">1 ≤ arr[i] ≤ 10<sup style="user-select: auto;">9</sup></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Morgan Stanley</code>&nbsp;<code>Amazon</code>&nbsp;<code>Microsoft</code>&nbsp;<code>Samsung</code>&nbsp;<code>Snapdeal</code>&nbsp;<code>Adobe</code>&nbsp;<code>Times Internet</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Searching</code>&nbsp;<code>Algorithms</code>&nbsp;
